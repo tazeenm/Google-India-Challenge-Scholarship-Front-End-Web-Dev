@@ -1,0 +1,12 @@
+/* add your CSS here */
+
+img {
+    width: 300px;
+    padding: 3%;
+}
+
+html {
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+}
